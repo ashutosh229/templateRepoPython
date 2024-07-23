@@ -1,1 +1,2 @@
-this is the project with MLops 
+This is the Template for any python project 
+
